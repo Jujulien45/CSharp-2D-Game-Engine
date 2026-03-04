@@ -1,0 +1,57 @@
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.exe
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.deps.json
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.runtimeconfig.json
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.dll
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.pdb
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.GeneratedMSBuildEditorConfig.editorconfig
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.AssemblyInfoInputs.cache
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.AssemblyInfo.cs
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.csproj.CoreCompileInputs.cache
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.dll
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\obj\Debug\net9.0\refint\MoteurJeuxDeZero.dll
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.pdb
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.genruntimeconfig.cache
+c:\Julien_Jerome\USBmodifiedFiles\C#\opening a window test\MoteurJeuxDeZero\obj\Debug\net9.0\ref\MoteurJeuxDeZero.dll
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.exe
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.deps.json
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.runtimeconfig.json
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.dll
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.pdb
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.AssemblyInfoInputs.cache
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.AssemblyInfo.cs
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.csproj.CoreCompileInputs.cache
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.dll
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\refint\MoteurJeuxDeZero.dll
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.pdb
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.genruntimeconfig.cache
+C:\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\ref\MoteurJeuxDeZero.dll
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.exe
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.deps.json
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.runtimeconfig.json
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.dll
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\bin\Debug\net9.0\MoteurJeuxDeZero.pdb
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.AssemblyInfoInputs.cache
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.AssemblyInfo.cs
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.csproj.CoreCompileInputs.cache
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.dll
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\refint\MoteurJeuxDeZero.dll
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.pdb
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\MoteurJeuxDeZero.genruntimeconfig.cache
+D:\Disque Dour\Julien_Jerome\USBmodifiedFiles\C#\MoteurJeuxDeZero\obj\Debug\net9.0\ref\MoteurJeuxDeZero.dll
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\bin\Debug\net9.0\MoteurJeuxDeZero.exe
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\bin\Debug\net9.0\MoteurJeuxDeZero.deps.json
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\bin\Debug\net9.0\MoteurJeuxDeZero.runtimeconfig.json
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\bin\Debug\net9.0\MoteurJeuxDeZero.dll
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\bin\Debug\net9.0\MoteurJeuxDeZero.pdb
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\MoteurJeuxDeZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\MoteurJeuxDeZero.AssemblyInfoInputs.cache
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\MoteurJeuxDeZero.AssemblyInfo.cs
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\MoteurJeuxDeZero.csproj.CoreCompileInputs.cache
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\MoteurJeuxDeZero.sourcelink.json
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\MoteurJeuxDeZero.dll
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\refint\MoteurJeuxDeZero.dll
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\MoteurJeuxDeZero.pdb
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\MoteurJeuxDeZero.genruntimeconfig.cache
+C:\Users\julie\Desktop\repos\CSharp-2D-Game-Engine\obj\Debug\net9.0\ref\MoteurJeuxDeZero.dll

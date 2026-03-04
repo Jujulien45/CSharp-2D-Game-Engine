@@ -1,0 +1,31 @@
+using System;
+using System.Runtime.InteropServices;
+
+class Input
+{
+    // --------------- constantes WIN32 -------------------- //
+    private const int WM_CLOSE = 0x0010;
+    private const int WM_DESTROY = 0x0002;
+    private const int WM_PAINT = 0x000F;
+    private const int WM_KEYDOWN = 0x0100;
+    private const int WM_KEYUP = 0x0101;
+    private const int WM_MOUSEMOVE = 0x0200;
+    private const int WM_SIZE = 0x0005;
+    private const int CW_USEDEFAULT = unchecked((int)0x80000000);
+    private const uint WS_OVERLAPPEDWINDOW = 0x00CF0000;
+    private const uint WS_VISIBLE = 0x10000000;
+    private const uint PM_REMOVE = 0x0001;
+    private const uint WM_QUIT = 0x0012;
+    void get() {
+        MSG messages[];
+        while (PeekMessage(out msg, IntPtr.Zero, 0, 0, PM_REMOVE))
+        {
+            if (msg.message == WM_QUIT)
+            {
+                running = false;
+            }
+            TranslateMessage(ref msg); // if key press translate it into an ascii char message and ads it to the queue
+            DispatchMessage(ref msg);
+        }
+    }
+}
